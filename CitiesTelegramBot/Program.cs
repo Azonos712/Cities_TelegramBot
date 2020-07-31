@@ -15,7 +15,7 @@ namespace CitiesTelegramBot
     {
         static ITelegramBotClient botClient;
         static List<Game> GamePool;
-        static readonly string tokenPath = @"C:\Just_Projects\C#\TelegramBots\token.txt";
+        static readonly string tokenPath = @"D:\JustProjects\TelegramBots\token.txt";
 
         static void Main()
         {
